@@ -1,0 +1,26 @@
+# Stock symbols for prediction
+AAPL
+MSFT
+GOOGL
+AMZN
+META
+NVDA
+TSLA
+JPM
+JNJ
+V
+WMT
+PG
+UNH
+HD
+DIS
+NFLX
+ADBE
+CRM
+ORCL
+INTC
+AMD
+IBM
+CSCO
+QCOM
+TXN

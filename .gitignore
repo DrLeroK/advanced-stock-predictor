@@ -1,0 +1,49 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Data files (large)
+data/raw/*.csv
+data/processed/*.csv
+data/fundamentals/*.json
+data/scalers/*.pkl
+
+# Model files (large)
+models/saved/*.keras
+models/saved/*.h5
+models/saved/*.joblib
+models/saved/*.pkl
+
+# Results (large)
+backtest_results_*.csv
+backtest_metrics_*.json
+evaluation_*.csv
+evaluation_*.png
+optimization_results_*.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
